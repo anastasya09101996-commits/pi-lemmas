@@ -1,0 +1,10 @@
+{
+  "title": "pi-lemmas: verified micro-lemmas (L-001, L-002)",
+  "description": "Elementary lemmas in number theory and probability with complete proofs and machine-checked deterministic tests. Scope is limited to pure mathematics; no external doctrine is required or verified here.",
+  "license": "MIT",
+  "creators": [
+    {"name": "Kovalenko, Anastasia", "affiliation": "PROXIMA/pi"}
+  ],
+  "keywords": ["number theory", "probability", "palindromes", "retry protocols", "formal verification", "tests"],
+  "upload_type": "software"
+}
